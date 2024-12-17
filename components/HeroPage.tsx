@@ -10,7 +10,7 @@ export default function HeroPage() {
                         <p>{`It's the Simple Pleasures in Life`}</p>
                     </div>
                     <div className="content2">
-                        <Link href={"/Menu"}>Order Now</Link>
+                        <Link href={"/menuPage"}>Order Now</Link>
                     </div>
                 </div>
 
