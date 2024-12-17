@@ -28,7 +28,7 @@ export default function Menu(){
                         <h3>Customize Your Cake As Your Choice</h3>
                     </div>
                     <div className="content2">
-                        <Link href={"/Menu"}>Order Now</Link>
+                        <Link href={"/menuPage"}>Order Now</Link>
                     </div>
                 </div>
                 </div>

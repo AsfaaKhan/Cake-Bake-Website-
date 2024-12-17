@@ -447,7 +447,7 @@ p {
 /* Menu */
 
 .bg3 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url("/menu/custom.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url("/about/custom.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
