@@ -58,13 +58,13 @@ const Navbar = () => {
                                     <Link className=" nav-link" href="/">Home </Link>
                                 </li>
                                 <li>
-                                    <Link className="nav-link " href="#about">About</Link>
+                                    <Link className="nav-link " href="/aboutPage">About</Link>
                                 </li>
                                 <li>
-                                    <Link className=" nav-link" href="#places">Places</Link>
+                                    <Link className=" nav-link" href="/menuPage">Menu</Link>
                                 </li>
                                 <li>
-                                    <Link className=" nav-link" href="#contact">Contact </Link>
+                                    <Link className=" nav-link" href="/contactPage">Contact </Link>
                                 </li>
                             </ul>
                     </div>
