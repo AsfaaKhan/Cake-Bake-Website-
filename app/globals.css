@@ -598,11 +598,3 @@ p {
   height: 30px;
 }
 
-
-
-
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-}
